@@ -7,6 +7,7 @@ from manimlib import *
 #This was added on github to test pull hehehe
 # This comment was added in experimenting branch
 # conflic1 with branch experimenting
+# conflict 2 was added here
 
 class SquareToCircle(Scene):
     def construct(self):
