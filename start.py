@@ -2,7 +2,7 @@ from manimlib import *
 # from matplotlib.pyplot import grid
 
 #These example were taken from 3b1b's manim repository
-#hello Chi Co tran
+#hello Chi Co
 #This was added on github to test pull
 
 class SquareToCircle(Scene):
